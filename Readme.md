@@ -4,8 +4,8 @@
 
 ## Run this file 'Exericse14.ipynb' on your side.
 
-## Make sure there are 'png' files for exercises, e14-1.png, e14-2.png, e14-3.png
-## Commit/push all 'png' files to Github classroom Repository
+### Make sure there are 'png' files for exercises, e14-1.png, e14-2.png, e14-3.png
+### Commit/push all 'png' files to Github classroom Repository
 
 
 <!--
