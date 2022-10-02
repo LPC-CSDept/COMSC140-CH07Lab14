@@ -4,7 +4,8 @@
 
 ## Run this file 'Exericse14.ipynb' on your side.
 
-### Once you run this example file, make sure there are 'png' files from python code, e14-1.png, e14-2.png, e14-3.png
+### Once you run this example file, make sure there are 'png' files from python code, 
+#### e14-1.png, e14-2.png, e14-3.png
 ### Commit/push all 'png' files to Github classroom Repository
 
 
